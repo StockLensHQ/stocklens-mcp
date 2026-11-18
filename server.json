@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.stocklens/stocklens",
+  "title": "StockLens",
+  "description": "Where a company stands in its market and why. The largest companies in each market need no account.",
+  "version": "1.2.4",
+  "websiteUrl": "https://stocklens.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.stocklens.com/mcp"
+    }
+  ]
+}
