@@ -1,0 +1,19 @@
+{
+  "identifier": "stocklenshq-stocklens-mcp",
+  "name": "StockLens MCP Server",
+  "version": "1.2.5",
+  "description": "Explainable stock scores, company analysis, discovery screening and portfolio insights for ChatGPT and Claude.",
+  "author": "Stock Lens Inc.",
+  "authorUrl": "https://stocklens.com/about",
+  "homepage": "https://stocklens.com/features/ai-integrations",
+  "icon": "https://stocklens.com/logo512.png",
+  "cloudEndpoint": "https://mcp.stocklens.com/mcp",
+  "tags": [
+    "stocks",
+    "finance",
+    "investing",
+    "stock-analysis",
+    "screening",
+    "portfolio"
+  ]
+}
